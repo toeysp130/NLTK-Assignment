@@ -128,4 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+fake-news-model/pytorch_model.bin
 
